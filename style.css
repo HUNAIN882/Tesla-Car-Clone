@@ -374,3 +374,228 @@ button {
   width: 100%;
   margin-top: 20px;
  }
+
+
+ .start14 {
+  margin-top: -880px;
+  margin-left: 700px;
+  font-size: 50px;
+  font-weight: 600;
+  color: white;
+ }
+
+ .ghari11 {
+  margin-top: 710px;
+  margin-left: 30px;
+ }
+
+
+ .ghari11 button {
+  background-color: black;
+  color: #8e8e8e;
+  border-top: 3px solid #8e8e8e;
+  padding: 10px 100px;
+  font-size: 15px;
+ }
+
+
+ .ghari11 button:hover {
+    border-radius: 1px solid #fff;
+    cursor: pointer;
+ }
+
+
+ .ghari12 {
+  margin-top: -93px;
+  margin-left: 330px;
+ }
+
+ .ghari12 button {
+  background-color: black;
+  color: #8e8e8e;
+  padding: 10px 100px;
+  font-size: 15px;
+  border-radius: 1px solid #fff;
+  cursor: pointer;
+ }
+
+ .car7 img {
+  width: 100%;
+  margin-top: 10px;
+ }
+ 
+
+ .start15 {
+  margin-top: -920px;
+  margin-left: 700px;
+  font-size: 50px;
+  color: #fff;
+  font-weight: 600;
+ }
+
+ .start16 {
+  margin-top: -5px;
+  margin-left: 640px;
+  font-size: 30px;
+  color: #fff;
+  font-weight: 600;
+ }
+
+
+ .ghari13 {
+  margin-top: 710px;
+  margin-left: 20px;
+ }
+
+ .ghari13 button {
+  padding: 10px 100px;
+  background-color: #3368ff;
+  padding: 10px 100px;
+  border-radius: 5px;
+  border: 1px solid #3368ff;
+  color: #fff;
+  font-size: 15px;
+  cursor: pointer;
+ }
+
+
+ .ghari14 {
+  margin-top: -100px;
+  margin-left: 220px;
+  padding: 10px 100px;
+  border-radius: 5px;
+ }
+
+ .ghari14 button {
+  padding: 10px 100px;
+  border-radius: 5px;
+  border: 1px solid #fff;
+  cursor: pointer;
+ }
+
+
+ .car8 img {
+  width: 100%;
+  margin-top: 10px;
+ }
+
+
+ .start17 {
+  margin-top: -880px;
+  margin-left: 750px;
+  font-size: 50px;
+  color: #fff;
+  font-weight: 600;
+ }
+
+ .start18 {
+  margin-left: 590px;
+  font-size: 40px;
+  color: #fff;
+  font-weight: 600;
+ }
+
+
+ .ghari15 {
+  margin-top: 660px;
+  margin-left: 50px;
+ }
+
+ .ghari15 button {
+  padding: 10px 100px;
+  background-color: #3368ff;
+  padding: 10px 100px;
+  border-radius: 5px;
+  border: 1px solid #3368ff;
+  color: #fff;
+  font-size: 15px;
+  cursor: pointer;
+ }
+
+
+ .ghari16 {
+  margin-top: -90px;
+  margin-left: 340px;
+ }
+
+ .ghari16 button {
+  padding: 10px 100px;
+  border-radius: 5px;
+  border: 1px solid #fff;
+  cursor: pointer;
+ }
+
+
+ .car9 img {
+  width: 100%;
+  margin-top: 18px;
+ }
+
+
+ .start19 {
+  margin-top: -850px;
+  margin-left: 710px;
+  font-size: 50px;
+  font-weight: 600px;
+  color: #fff;
+ }
+
+
+ .ghari17 {
+  margin-top: 670px;
+  margin-left: 20px;
+ }
+
+ .ghari17 button {
+  padding: 10px 100px;
+  background-color: #3368ff;
+  padding: 10px 100px;
+  border-radius: 5px;
+  border: 1px solid #3368ff;
+  color: #fff;
+  font-size: 15px;
+  cursor: pointer;
+ }
+
+
+ .ghari18 {
+  margin-top: -90px;
+  margin-left: 310px;
+ }
+
+
+ .ghari18 button {
+  padding: 10px 100px;
+  border-radius: 5px;
+  border: 1px solid #fff;
+  cursor: pointer;
+  font-size: 14px;
+ }
+
+ .car10 img {
+  margin-top: 20px;
+  width: 100%;
+ }
+
+
+ .ghari19 {
+  margin-top: -115px;
+  margin-left: 130px;
+ }
+
+
+ .ghari19 button {
+  padding: 10px 100px;
+  background-color: #3368ff;
+  padding: 10px 100px;
+  border-radius: 5px;
+  border: 1px solid #3368ff;
+  color: #fff;
+  font-size: 15px;
+  cursor: pointer;
+ }
+
+ video {
+  margin-top: 21px;
+  width: 100%;
+ }
